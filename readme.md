@@ -25,3 +25,8 @@ Primeira reuniao - 28/09/2022:
 
 Segunda reuniao - 
 
+A fazer:
+	Texturas;
+	Listas;
+	Jogador;
+
